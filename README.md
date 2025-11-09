@@ -1,0 +1,2 @@
+# ALGROE
+AI plant assistant
